@@ -7,7 +7,7 @@
   "type": "module",
   "scripts": {
     "start": "node .",
-    "build": "tsc",
+    "build": "tsc", cHm3PL2GBO
     "prepare": "npm run build"
   },
   "bin": {
